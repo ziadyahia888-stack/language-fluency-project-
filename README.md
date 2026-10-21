@@ -31,11 +31,8 @@ An end-to-end data project: raw Kaggle file, Python preparation in Google Colab,
 
 ## Structure
 ```
-data/raw/            original file (not committed)
-data/processed/      cleaned CSV
-notebooks/           Colab notebook (.ipynb)
-reports/             client proposal (PDF), presentation (PPTX)
-dashboard/           .pbix file and screenshots
+reports/       client proposal (PDF) and presentation (PPTX)
+dashboard/     dashboard screenshots
 ```
 
 ## Notebook
